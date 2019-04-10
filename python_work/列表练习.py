@@ -20,3 +20,22 @@ print(min(places_list3))
 print(max(places_list3))
 
 list_content = [1, 2, 3, 4]
+
+
+for i in range(1, 21):
+    print(i, end='\t')
+
+number_list = []
+for i in range(1, 1000001):
+    number_list.append(i)
+
+# for i in number_list:
+#     print(i)
+
+print(min(number_list))
+print(max(number_list))
+print(sum(number_list))
+
+number_list = [1, 2, 3, 4]
+odd_number_list = [value for value in number_list if value % 2 == 1]
+print(odd_number_list)

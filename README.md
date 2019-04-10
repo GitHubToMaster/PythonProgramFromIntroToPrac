@@ -80,3 +80,28 @@ print(max(list_content))
 print(sum(list_content))
 
 ```
+
+### 列表解析
+> 列表解析，也叫列表生成式
+
+[列表要赋的值 迭代列表 条件]
+
+### 列表的复制
+> 采用切片的形式复制列表
+
+```python
+food_list = ['chicked', 'burger']
+your_food_list = food_list[:]
+
+my_food_list = food_list # 此时两个变量将会指向同一个列表
+
+```
+
+## 元祖
+
+
+### 与列表的区别
+1. 列表适合用于可能变化的数据集
+2. 元祖中的元素是不可变的
+
+> 如果想要修改元祖中的元素，可以尝试重新定义一个元祖并赋值

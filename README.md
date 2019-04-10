@@ -51,3 +51,32 @@ print(motorcycles.pop()) #如果不给元素默认删除最后一个
 motorcycles.remove('yamaha') #只删除找到的第一个元素
 
 ```
+
+### 列表的排序
+1. 通过列表的sort()函数来对列表进行永久性排序
+2. 通过sorted(列表)来对列表进行临时性排序
+3. 通过列表的reverse()来对列表进行永久逆序改变
+
+```python
+
+places_list = ['东京', '上海', '杭州', '北京', '广州']
+places_list.sort() #对列表进行升序排列
+places_list.sort(reverse=True) #对列表进行逆序排列
+
+# 打印对列表临时排序后的结果，此时places_list并没有变
+print(sorted(places_list))
+
+# 对列表逆序输出
+places_list.reverse()
+print(places_list)
+
+```
+
+### 对数字列表进行统计
+```python
+list_content = [1, 2, 3, 4]
+print(min(list_content))
+print(max(list_content))
+print(sum(list_content))
+
+```

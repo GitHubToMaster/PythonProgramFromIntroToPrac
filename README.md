@@ -22,4 +22,14 @@ import this
 names = ["hello", "world"]
 print(names[-1]) #通过索引-1来访问列表最后一个元素
 ```
+### 列表的插入
+1. 使用append()方法，向列表的最后一个位置插入元素
+2. 使用insert()方法，向列表的指定位置插入元素
 
+```Python
+motorcycles.append('ducati')
+print(motorcycles)
+motorcycles = ['honda', 'yamaha', 'suzuki']
+motorcycles.insert(0, 'ducati')
+print(motorcycles)
+```

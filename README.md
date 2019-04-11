@@ -6,6 +6,36 @@
 <br />
 [本书源代码以及书上用到的其他各种资源](https://github.com/ehmatthes/pcc)
 
+
+
+第16章数据可视化演示：<br/>
+
+![采用颜色映射的平方折线图](./python_work/第二部分/项目2 数据可视化/Chapter 15/15.2/squares_plot.png)
+
+![掷骰子1次所在的随机点数分布](./python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual.svg)
+
+![掷骰子2次所在的随机点数分布](./python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual2.svg)
+
+![掷骰子2次(6面+10面)所在的随机点数分布](./python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual3.svg)
+![阿拉斯加锡特卡一个月的最高温度](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/high_lows.png)
+![阿拉斯加锡特卡一个月的最高温度2](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/myplot (2).png)
+![阿拉斯加锡特卡一年的最高温度](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/myplot.png)
+![阿拉斯加锡特卡的最高温度和最低温度](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/myplot2.png)
+![阿拉斯加锡特卡的最高温度和最低温度以及范围差](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/myplot3.png)
+![死亡谷一年的最高温度和最低温度以及温差](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/myplot4.png)
+
+![地区标记](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/americas.svg)
+
+![北美人口](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/na_populations.svg)
+
+![全球人口](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population.svg)
+
+![全球人口分组突出不同层次人数的国家](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2.svg)
+
+![改变默认样色将颜色加深](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population4.svg)
+
+![改变颜色为亮色主题](./python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population3.svg)
+
 ## 第一部分
 
 

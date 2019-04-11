@@ -25,5 +25,5 @@ hist.title = "Results of rolling one D6 1000 times."
 hist.x_labels = ['2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16']
 hist.x_title = "Results of rolling two D6 dice 50000 times."
 hist.y_title = "Result"
-hist.add('D6 + D6', frequencies) # 第1个参数表示要给添加的值指定的标签，第2个参数以列表的形式将出现在图表中的值
+hist.add('D6 + D10', frequencies) # 第1个参数表示要给添加的值指定的标签，第2个参数以列表的形式将出现在图表中的值
 hist.render_to_file('die_visual3.svg')

@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6d8db09-e416-4494-8519-a8f64f6fbac6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数/make_pizzas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3/rw_visual_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3/rw_visual_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3/rw_visual_v5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3/rw_visual_v6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3/rw_visual_v7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3/练习/15-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/date_time_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/americas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/country_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/na_populations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/population_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/death_valley_2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/sitka_weather_07-2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/sitka_weather_2014.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +22,7 @@
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$test.coverage" NAME="test Coverage Results" MODIFIED="1554969779207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population_v3.coverage" NAME="world_population_v3 Coverage Results" MODIFIED="1554983785555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population2.coverage" NAME="world_population2 Coverage Results" MODIFIED="1554985599204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$die_visual_v3.coverage" NAME="die_visual_v3 Coverage Results" MODIFIED="1554970819165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$die_visual_v3.coverage" NAME="die_visual_v3 Coverage Results" MODIFIED="1554987066121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$scatter_squares_v2.coverage" NAME="scatter_squares_v2 Coverage Results" MODIFIED="1554899766839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population2_v2.coverage" NAME="world_population2_v2 Coverage Results" MODIFIED="1554985943287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$pets.coverage" NAME="pets Coverage Results" MODIFIED="1554964504566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数" />
@@ -72,8 +36,8 @@
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population_v4.coverage" NAME="world_population_v4 Coverage Results" MODIFIED="1554984278219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$mpl_squares_v3.coverage" NAME="mpl_squares_v3 Coverage Results" MODIFIED="1554898995982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$rw_visual_v4.coverage" NAME="rw_visual_v4 Coverage Results" MODIFIED="1554967044337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v4.coverage" NAME="highs_lows_v4 Coverage Results" MODIFIED="1554974716704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows2.coverage" NAME="highs_lows2 Coverage Results" MODIFIED="1554978478794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v4.coverage" NAME="highs_lows_v4 Coverage Results" MODIFIED="1554987132306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows2.coverage" NAME="highs_lows2 Coverage Results" MODIFIED="1554987259619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$date_time_test.coverage" NAME="date_time_test Coverage Results" MODIFIED="1554975055564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$scatter_squares_v3.coverage" NAME="scatter_squares_v3 Coverage Results" MODIFIED="1554899875164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$and_or.coverage" NAME="and_or Coverage Results" MODIFIED="1554894729882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work" />
@@ -89,21 +53,21 @@
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population.coverage" NAME="world_population Coverage Results" MODIFIED="1554981932430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$scatter_squares.coverage" NAME="scatter_squares Coverage Results" MODIFIED="1554899217682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$die_visual.coverage" NAME="die_visual Coverage Results" MODIFIED="1554970238962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v5.coverage" NAME="highs_lows_v5 Coverage Results" MODIFIED="1554975333187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population2_v3.coverage" NAME="world_population2_v3 Coverage Results" MODIFIED="1554986112136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v8.coverage" NAME="highs_lows_v8 Coverage Results" MODIFIED="1554976062879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v5.coverage" NAME="highs_lows_v5 Coverage Results" MODIFIED="1554987245442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v8.coverage" NAME="highs_lows_v8 Coverage Results" MODIFIED="1554987257165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1554944177147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v7.coverage" NAME="highs_lows_v7 Coverage Results" MODIFIED="1554975874604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v7.coverage" NAME="highs_lows_v7 Coverage Results" MODIFIED="1554987254344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$rw_visual_v7.coverage" NAME="rw_visual_v7 Coverage Results" MODIFIED="1554967569227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.3" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v6.coverage" NAME="highs_lows_v6 Coverage Results" MODIFIED="1554975709937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows_v6.coverage" NAME="highs_lows_v6 Coverage Results" MODIFIED="1554987251646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1554897252486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$na_populations.coverage" NAME="na_populations Coverage Results" MODIFIED="1554985121683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$alien.coverage" NAME="alien Coverage Results" MODIFIED="1554947120617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第一部分/Chapter 6 字典" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$8_14.coverage" NAME="8-14 Coverage Results" MODIFIED="1554965172457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数/练习" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$make_pizzas.coverage" NAME="make_pizzas Coverage Results" MODIFIED="1554965639773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$squares.coverage" NAME="squares Coverage Results" MODIFIED="1554891349218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work" />
-    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1554972241200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
     <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$world_population2_v4.coverage" NAME="world_population2_v4 Coverage Results" MODIFIED="1554986288483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
+    <SUITE FILE_PATH="coverage/PythonProgramFromIntroToPrac$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1554987117984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -121,110 +85,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" selection-start-line="11" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/americas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="3" column="12" selection-start-line="3" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/na_populations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v4.py">
+        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            <state relative-caret-position="448">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#10#21#0" expanded="true" />
+                <element signature="e#11#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v4.py">
+        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="18" column="29" lean-forward="true" selection-end-line="25" />
+              <folding>
+                <element signature="e#21#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#21#50#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/country_codes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="248">
-                <caret line="370" column="29" selection-start-line="370" selection-start-column="29" selection-end-line="370" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -270,7 +183,6 @@
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/test.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v2.py" />
-        <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v2.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v3.py" />
@@ -287,7 +199,6 @@
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v3.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/country_codes.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v4.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/americas.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/na_populations.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v5.py" />
@@ -295,6 +206,8 @@
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v2.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v3.py" />
         <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v4.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py" />
       </list>
     </option>
   </component>
@@ -392,8 +305,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.world_population2_v4">
-    <configuration name="na_populations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.highs_lows2">
+    <configuration name="highs_lows2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgramFromIntroToPrac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -401,12 +314,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/na_populations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="world_population2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="highs_lows_v5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgramFromIntroToPrac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,12 +336,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -437,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="world_population2_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="highs_lows_v6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgramFromIntroToPrac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -445,12 +358,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,7 +372,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="world_population2_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="highs_lows_v7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgramFromIntroToPrac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -467,12 +380,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,7 +394,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="world_population2_v4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="highs_lows_v8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgramFromIntroToPrac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -489,12 +402,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -505,11 +418,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.world_population2_v4" />
-        <item itemvalue="Python.world_population2_v3" />
-        <item itemvalue="Python.world_population2_v2" />
-        <item itemvalue="Python.world_population2" />
-        <item itemvalue="Python.na_populations" />
+        <item itemvalue="Python.highs_lows2" />
+        <item itemvalue="Python.highs_lows_v8" />
+        <item itemvalue="Python.highs_lows_v7" />
+        <item itemvalue="Python.highs_lows_v6" />
+        <item itemvalue="Python.highs_lows_v5" />
       </list>
     </recent_temporary>
   </component>
@@ -529,18 +442,18 @@
       <workItem from="1554903406435" duration="818000" />
       <workItem from="1554942497243" duration="8334000" />
       <workItem from="1554957359243" duration="18904000" />
-      <workItem from="1554982460076" duration="3192000" />
+      <workItem from="1554982460076" duration="4796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44734000" />
+    <option name="totallyTimeSpent" value="46338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24892008" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1349892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -559,7 +472,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.62365013" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.21220303" />
       <window_info anchor="right" id="Database" order="4" weight="0.32991362" />
     </layout>
   </component>
@@ -729,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-303">
@@ -750,27 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/date_time_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -778,71 +663,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="e#13#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/sitka_weather_2014.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#11#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/death_valley_2014.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="16" selection-end-line="25" />
-          <folding>
-            <element signature="e#21#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding>
-            <element signature="e#21#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/population_data.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -866,16 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="248">
-            <caret line="370" column="29" selection-start-line="370" selection-start-column="29" selection-end-line="370" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/country_codes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -894,16 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="11" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -944,12 +749,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.2/world_population2_v4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        <state relative-caret-position="134">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding>
             <element signature="e#10#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="766">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 15/15.4/die_visual_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#13#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="18" column="29" lean-forward="true" selection-end-line="25" />
+          <folding>
+            <element signature="e#21#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#21#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_work/第二部分/项目2 数据可视化/Chapter 16/16.1/highs_lows_v5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#11#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

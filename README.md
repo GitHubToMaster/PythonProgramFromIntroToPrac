@@ -1,6 +1,11 @@
 # PythonProgramFromIntroToPrac
 《Python编程：从入门到实践》 学习记录
 
+
+
+<br />
+[本书源代码以及书上用到的其他各种资源](https://github.com/ehmatthes/pcc)
+
 ## 第一部分
 
 
@@ -296,6 +301,8 @@ say_hello("yirufeng", "sivan")
 
 > 当需要接收任意数量的实参，并且预先不知道函数传递给函数的会是什么样的信息，在这种情况下，可将函数编写出能够接受任意数量的键值对-----调用语句提供多少就接受多少
 
+
+例如下面的代码传递参数的时候会要求用户传递两个形式参数以及名称-值对的参数
 ```python
 # **user_info 前面有两个星号将会被Python创建为一个字典
 # 只有一个星号的时候将会被创建为一个元祖
@@ -323,6 +330,20 @@ print(user_profile)
 
 如果需要函数不对列表或字典本身进行修改，可以将列表或字典切片[:]传递给函数，此时函数只会对其副本进行修改
 
+### 模块
+
+1. import module_name
+2. from module_name import function_name
+3. from module_name import function1_name, function2_name
+4. from module_name import * 此时无需通过 模块名.函数名对函数进行调用，直接使用函数名
+#### 通过as取外号
+
+给函数取别名
+> from pizza import make_pizza as mk
+
+给模块取别名
+> import pizza as p
+
 ------------
 
 ## 第二部分
@@ -331,3 +352,21 @@ print(user_profile)
 #### matplotlib
 1. 使用plot.plot()绘制折线图
 2. 使用plot.scatter()绘制散点图
+
+### 人口数据显示
+
+#### 问题一
+> ModuleNotFoundError: No module named 'pygal.il8n'
+
+解决方案：
+1. pip install pygal_maps_world
+2. 在代码中去掉from pygal.i18n import COUNTRIES 换成from pygal_maps_world import i18n
+
+#### 问题二
+> AttributeError: module 'pygal' has no attribute 'Worldmap' 问题
+
+> 将 import pygal 替换为如下两行代码
+
+解决方案：
+1. import pygal_maps_world.maps
+2， wm = pygal_maps_world.maps.World()

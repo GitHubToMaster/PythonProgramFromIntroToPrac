@@ -34,3 +34,4 @@ for value in user_0.values():
 
 for value in set(user_0.values()):
     print(value)
+

@@ -215,6 +215,109 @@ for value in set(user_0.values()):
 
 **for循环是一种遍历列表的有效方式，但是在for循环中不应修改列表，否则将导致Python难以跟踪其中的元素，如果要在遍历的同时进行修改可以使用while循环**
 
+### 函数
+
+#### 参数传递
+
+##### 位置实参
+> 要求实参的顺序与形参的顺序相同
+
+```python
+def describe_pet(animal_type, pet_name):
+    """
+    显示宠物的信息
+    :param animal_type: 动物种类
+    :param pet_name: 宠物名称
+    :return: None
+    """
+    print("\nI have a " + animal_type + ".")
+    print("My " + animal_type + "'s name is " + pet_name.title() +".")
+
+describe_pet('hamster', 'harry')
+```
+
+##### 关键字实参
+> 每个实参都有变量名和值组成,在传递过程中将名称和值关联起来
+
+注意：使用关键字实参的时候，实参的顺序无关紧要，**务必准确地指定函数定义中的形参名**
+
+```python
+def describe_pet(animal_type, pet_name):
+    """
+    显示宠物的信息
+    :param animal_type: 动物种类
+    :param pet_name: 宠物名称
+    :return: None
+    """
+    print("\nI have a " + animal_type + ".")
+    print("My " + animal_type + "'s name is " + pet_name.title() +".")
+
+describe_pet(animal_type='hamster', pet_name='harry')
+
+```
+
+##### 默认值
+
+注意：**在参数中定义默认值的时候，有默认值的参数必须放到没有默认值参数的后面，否则会报出如下错误**
+> SyntaxError: non-default argument follows default argument
+
+默认值参数定义以后，Python将会把其他参数当做位置参数进行解析，传递实参的时候仍然需要注意**参数顺序**
+
+```python
+
+def describe_pet2(animal_type="dog", pet_name):
+    """
+    显示宠物的信息
+    :param animal_type: 动物种类
+    :param pet_name: 宠物名称
+    :return: None
+    """
+    print("\nI have a " + animal_type + ".")
+    print("My " + animal_type + "'s name is " + pet_name.title() +".")
+```
+
+##### 传递任意数量的实参
+> 有时候我们并不知道需要向函数传递多少个参数，此时可以使用*来对参数进行修饰
+
+**在函数中，Python将会把不定数量的参数转换为一个元祖，然后对其进行操作**
+
+```python
+def say_hello(*names):
+    # Python将会把传递过来的参数创建为一个names元祖
+    for name in names:
+        print("Hello, " + name)
+
+say_hello("yirufeng", "sivan")
+
+```
+
+###### 使用任意数量的关键字实参
+> 当需要接收任意数量的实参，并且预先不知道函数传递给函数的会是什么样的信息，在这种情况下，可将函数编写出能够接受任意数量的键值对-----调用语句提供多少就接受多少
+
+```python
+# **user_info 前面有两个星号将会被Python创建为一个字典
+# 只有一个星号的时候将会被创建为一个元祖
+def build_profile(first, last, **user_info):
+    """创建一个字典，其中包含我们知道的有关用户的一切"""
+    profile = {}
+    profile['first_name'] = first
+    profile['last_name'] = last
+    for key, value in user_info.items():
+        profile[key] = value
+    return profile
+    
+
+
+user_profile = build_profile('albert', 'einstein', location='princeton', field='physics')
+print(user_profile)
+
+```
+
+#### 函数中修改内容
+> 在函数中接收传递过来的列表或字典并对其进行修改都是永久性的
+
+如果需要函数不对列表或字典本身进行修改，可以将列表或字典切片[:]传递给函数，此时函数只会对其副本进行修改
+
 ------------
 
 ## 第二部分

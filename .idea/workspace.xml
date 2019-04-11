@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6d8db09-e416-4494-8519-a8f64f6fbac6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_work/第一部分/Chapter 8 函数/练习/8-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_work/第一部分/Chapter 6 字典/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_work/第一部分/Chapter 6 字典/user.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +43,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="414">
-                <caret line="307" column="4" selection-start-line="307" selection-start-column="4" selection-end-line="307" selection-end-column="4" />
+                <caret line="315" column="3" selection-start-line="315" selection-start-column="3" selection-end-line="315" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -344,12 +339,12 @@
       <workItem from="1554896258987" duration="5448000" />
       <workItem from="1554903406435" duration="818000" />
       <workItem from="1554942497243" duration="8334000" />
-      <workItem from="1554957359243" duration="4797000" />
+      <workItem from="1554957359243" duration="4898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27435000" />
+    <option name="totallyTimeSpent" value="27536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -595,7 +590,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="414">
-            <caret line="307" column="4" selection-start-line="307" selection-start-column="4" selection-end-line="307" selection-end-column="4" />
+            <caret line="315" column="3" selection-start-line="315" selection-start-column="3" selection-end-line="315" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

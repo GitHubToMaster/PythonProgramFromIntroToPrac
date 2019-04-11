@@ -291,7 +291,9 @@ say_hello("yirufeng", "sivan")
 
 ```
 
-###### 使用任意数量的关键字实参
+
+##### 使用任意数量的关键字实参
+
 > 当需要接收任意数量的实参，并且预先不知道函数传递给函数的会是什么样的信息，在这种情况下，可将函数编写出能够接受任意数量的键值对-----调用语句提供多少就接受多少
 
 ```python
@@ -310,6 +312,9 @@ def build_profile(first, last, **user_info):
 
 user_profile = build_profile('albert', 'einstein', location='princeton', field='physics')
 print(user_profile)
+
+# > {'first_name': 'albert', 'last_name': 'einstein', 'location': 'princeton', 'field': 'physics'}
+
 
 ```
 

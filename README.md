@@ -159,6 +159,8 @@ my_food_list = food_list # 此时两个变量将会指向同一个列表
 
 ### 字典
 
+**Python 字典(Dictionary) len() 函数计算字典元素个数，即键的总数。**
+
 #### 字典中添加键值对
 ```python
 alien_0 = {'color' : 'green', 'points' : 5}
@@ -408,3 +410,29 @@ print(user_profile)
 解决方案：
 1. import pygal_maps_world.maps
 2， wm = pygal_maps_world.maps.World()
+
+#### 问题三
+> AttributeError: 'NoneType' object has no attribute 'decode'
+
+```python
+# 书上的代码
+names, plot_dicts = [], []
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    plot_dict = {
+        'value': repo_dict['stargazers_count'],
+        'label': repo_dict['description']
+    }
+    plot_dicts.append(plot_dict)
+
+# 改为如下代码
+names, plot_dicts = [], []
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    plot_dict = {
+        'value': repo_dict['stargazers_count'],
+        'label': str(repo_dict['description'])
+    }
+    plot_dicts.append(plot_dict)
+
+```

@@ -1,8 +1,9 @@
-# 修改标签文字和线条大小
+# 校正图像，因为x轴坐标的值默认从0开始
 import matplotlib.pyplot as plt
+input_values = [1, 2, 3, 4, 5]
 squares = [1, 4, 9, 16, 25]
 # 修改线条大小
-plt.plot(squares, linewidth=10)
+plt.plot(input_values, squares, linewidth=10)
 # 设置图表标题，并给坐标轴加上标签
 plt.title("Square Numbers", fontsize=24)
 plt.xlabel("Value", fontsize=14)

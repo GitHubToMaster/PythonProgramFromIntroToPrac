@@ -1,0 +1,25 @@
+# 重构后的代码
+import json
+
+# 如果以前存储了用户名，就加载它
+#   否则，就提示用户输入用户名并存储它
+
+
+
+def greet_user():
+    """
+    问候用户，并指出其名字
+    """
+    filename = 'username.json'
+    try:
+        with open(filename) as f_obj:
+            username = json.load(f_obj)
+    except FileNotFoundError:
+        username = input("What is your name？")
+        with open(filename, 'w') as f_obj:
+            json.dump(username, f_obj)
+            print("We'll remermber you when you come back, " + username + "!")
+    else:
+        print("Welcome back, " + username + "!")
+
+greet_user()
